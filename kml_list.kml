@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2"><Document>
+<Placemark><name>Быструха</name><Point><coordinates>70.6267296,56.4241362,0</coordinates></Point></Placemark>
+<Placemark><name>Быструха</name><Point><coordinates>70.625,56.4202778,0</coordinates></Point></Placemark>
+<Placemark><name>Водолазово</name><Point><coordinates>70.0261111,56.1644444,0</coordinates></Point></Placemark>
+<Placemark><name>Конево</name><Point><coordinates>70.7141297,56.2903959,0</coordinates></Point></Placemark>
+<Placemark><name>Конево</name><Point><coordinates>70.7147222,56.2905556,0</coordinates></Point></Placemark>
+<Placemark><name>Майка</name><Point><coordinates>70.1183333,56.01,0</coordinates></Point></Placemark>
+<Placemark><name>Назарово</name><Point><coordinates>70.7869444,56.5675,0</coordinates></Point></Placemark>
+<Placemark><name>Назарово</name><Point><coordinates>70.7869444,56.5675,0</coordinates></Point></Placemark>
+<Placemark><name>Ощепково</name><Point><coordinates>70.698908,56.4831772,0</coordinates></Point></Placemark>
+<Placemark><name>Ощепково</name><Point><coordinates>70.6955556,56.4822222,0</coordinates></Point></Placemark>
+<Placemark><name>Партизан</name><Point><coordinates>70.85,56.0377778,0</coordinates></Point></Placemark>
+<Placemark><name>Иваново</name><Point><coordinates>67.768114,56.0884443,0</coordinates></Point></Placemark>
+<Placemark><name>Красноорлово</name><Point><coordinates>67.9035,55.8732797,0</coordinates></Point></Placemark>
+<Placemark><name>Прохорово</name><Point><coordinates>67.4007732,55.9257628,0</coordinates></Point></Placemark>
+<Placemark><name>Прохорово</name><Point><coordinates>67.4013889,55.9247222,0</coordinates></Point></Placemark>
+<Placemark><name>Прохорово</name><Point><coordinates>67.4013889,55.9247222,0</coordinates></Point></Placemark>
+<Placemark><name>Южно-Дубровное</name><Point><coordinates>67.6783333,55.7780556,0</coordinates></Point></Placemark>
+<Placemark><name>Южно-Дубровное</name><Point><coordinates>67.6797222,55.7761111,0</coordinates></Point></Placemark>
+<Placemark><name>Кармацкая</name><Point><coordinates>68.6426177,56.7395153,0</coordinates></Point></Placemark>
+<Placemark><name>Кармацкая</name><Point><coordinates>68.6425,56.7394444,0</coordinates></Point></Placemark>
+<Placemark><name>Кармацкая</name><Point><coordinates>68.6425,56.7394444,0</coordinates></Point></Placemark>
+<Placemark><name>Кротово</name><Point><coordinates>69.270547,56.914787,0</coordinates></Point></Placemark>
+<Placemark><name>Кротово</name><Point><coordinates>69.2725,56.9144444,0</coordinates></Point></Placemark>
+<Placemark><name>Малиновка</name><Point><coordinates>68.8826572,57.1497879,0</coordinates></Point></Placemark>
+<Placemark><name>Малиновка</name><Point><coordinates>68.8808333,57.1488889,0</coordinates></Point></Placemark>
+<Placemark><name>Малиновка</name><Point><coordinates>68.8847222,57.1488889,0</coordinates></Point></Placemark>
+<Placemark><name>Новоаптула</name><Point><coordinates>68.9272596,57.0521185,0</coordinates></Point></Placemark>
+<Placemark><name>Новоаптула</name><Point><coordinates>68.9272222,57.0519444,0</coordinates></Point></Placemark>
+<Placemark><name>Новоберезовка</name><Point><coordinates>69.3716801,57.1010352,0</coordinates></Point></Placemark>
+<Placemark><name>Новоберезовка</name><Point><coordinates>69.3808333,57.1016667,0</coordinates></Point></Placemark>
+<Placemark><name>Новоберезовка</name><Point><coordinates>69.3808333,57.1016667,0</coordinates></Point></Placemark>
+<Placemark><name>Новопетрово</name><Point><coordinates>69.1330807,57.1883132,0</coordinates></Point></Placemark>
+<Placemark><name>Новопетрово</name><Point><coordinates>69.1408333,57.1869444,0</coordinates></Point></Placemark>
+<Placemark><name>Русаково</name><Point><coordinates>68.9015417,56.9810058,0</coordinates></Point></Placemark>
+<Placemark><name>Русаково</name><Point><coordinates>68.9013889,56.9808333,0</coordinates></Point></Placemark>
+<Placemark><name>Русаково</name><Point><coordinates>68.9013889,56.9808333,0</coordinates></Point></Placemark>
+<Placemark><name>Зарослое</name><Point><coordinates>68.6043618,55.4766339,0</coordinates></Point></Placemark>
+<Placemark><name>Зарослое</name><Point><coordinates>68.6041667,55.4766667,0</coordinates></Point></Placemark>
+<Placemark><name>Мелехино</name><Point><coordinates>68.5763889,56.0502778,0</coordinates></Point></Placemark>
+<Placemark><name>Старорямова</name><Point><coordinates>68.2316667,55.6894444,0</coordinates></Point></Placemark>
+<Placemark><name>Старорямово</name><Point><coordinates>68.231821,55.6896606,0</coordinates></Point></Placemark>
+<Placemark><name>Уктуз</name><Point><coordinates>68.4810845,55.6107208,0</coordinates></Point></Placemark>
+<Placemark><name>Уктуз</name><Point><coordinates>68.4813889,55.6122222,0</coordinates></Point></Placemark>
+<Placemark><name>Абаул</name><Point><coordinates>70.3770446,57.8714745,0</coordinates></Point></Placemark>
+<Placemark><name>Абаул</name><Point><coordinates>70.3769444,57.8713889,0</coordinates></Point></Placemark>
+<Placemark><name>Аксурка</name><Point><coordinates>70.1018364,57.9752868,0</coordinates></Point></Placemark>
+<Placemark><name>Аксурка</name><Point><coordinates>70.1016667,57.9752778,0</coordinates></Point></Placemark>
+<Placemark><name>Аксурка</name><Point><coordinates>70.1016667,57.9752778,0</coordinates></Point></Placemark>
+<Placemark><name>Большой Карагай</name><Point><coordinates>70.2422835,57.9474648,0</coordinates></Point></Placemark>
+<Placemark><name>Большой Карагай</name><Point><coordinates>70.2347222,57.9513889,0</coordinates></Point></Placemark>
+<Placemark><name>Большой Карагай</name><Point><coordinates>70.2347222,57.9513889,0</coordinates></Point></Placemark>
+<Placemark><name>Вершинская</name><Point><coordinates>70.1146856,57.3595532,0</coordinates></Point></Placemark>
+<Placemark><name>Вершинская</name><Point><coordinates>70.1144444,57.3594444,0</coordinates></Point></Placemark>
+<Placemark><name>Веселинская</name><Point><coordinates>70.6128214,57.5263037,0</coordinates></Point></Placemark>
+<Placemark><name>Второвагайское</name><Point><coordinates>68.9644444,58.0091667,0</coordinates></Point></Placemark>
+<Placemark><name>Второсалинская</name><Point><coordinates>69.9341667,57.9894444,0</coordinates></Point></Placemark>
+<Placemark><name>Дубровное</name><Point><coordinates>69.4340601,57.9515364,0</coordinates></Point></Placemark>
+<Placemark><name>Дубровное</name><Point><coordinates>69.43,57.9525,0</coordinates></Point></Placemark>
+<Placemark><name>Заречный</name><Point><coordinates>69.1262087,57.8819159,0</coordinates></Point></Placemark>
+<Placemark><name>Индери</name><Point><coordinates>69.214797,57.495921,0</coordinates></Point></Placemark>
+<Placemark><name>Индери</name><Point><coordinates>69.2147222,57.4958333,0</coordinates></Point></Placemark>
+<Placemark><name>Иртыш</name><Point><coordinates>69.4766834,58.0445057,0</coordinates></Point></Placemark>
+<Placemark><name>Иртыш</name><Point><coordinates>69.4858333,58.0391667,0</coordinates></Point></Placemark>
+<Placemark><name>Казанка</name><Point><coordinates>69.0246358,57.9365434,0</coordinates></Point></Placemark>
+<Placemark><name>Казанское</name><Point><coordinates>69.6522222,57.7930556,0</coordinates></Point></Placemark>
+<Placemark><name>Казанское</name><Point><coordinates>69.6486111,57.7927778,0</coordinates></Point></Placemark>
+<Placemark><name>Касьяново</name><Point><coordinates>69.1467895,58.014685,0</coordinates></Point></Placemark>
+<Placemark><name>Касьяново</name><Point><coordinates>69.146858,58.014799,0</coordinates></Point></Placemark>
+<Placemark><name>Касьяново</name><Point><coordinates>69.1466667,58.0147222,0</coordinates></Point></Placemark>
+<Placemark><name>Комсомольский</name><Point><coordinates>69.0483643,57.2586685,0</coordinates></Point></Placemark>
+<Placemark><name>Комсомольский</name><Point><coordinates>69.0483333,57.2586111,0</coordinates></Point></Placemark>
+<Placemark><name>Курья</name><Point><coordinates>69.7888889,57.9938889,0</coordinates></Point></Placemark>
+<Placemark><name>Малый Уват</name><Point><coordinates>69.9727257,57.6014865,0</coordinates></Point></Placemark>
+<Placemark><name>Малый Уват</name><Point><coordinates>69.9725,57.6013889,0</coordinates></Point></Placemark>
+<Placemark><name>Митькина</name><Point><coordinates>69.4871403,57.8063687,0</coordinates></Point></Placemark>
+<Placemark><name>Митькинское</name><Point><coordinates>69.4869444,57.8063889,0</coordinates></Point></Placemark>
+<Placemark><name>Осиновская</name><Point><coordinates>70.431314,57.479952,0</coordinates></Point></Placemark>
+<Placemark><name>Осиновская</name><Point><coordinates>70.4475,57.4866667,0</coordinates></Point></Placemark>
+<Placemark><name>Осиновская</name><Point><coordinates>70.4261111,57.4783333,0</coordinates></Point></Placemark>
+<Placemark><name>Первомайский</name><Point><coordinates>69.054613,57.4050388,0</coordinates></Point></Placemark>
+<Placemark><name>Первомайский</name><Point><coordinates>69.0513889,57.4025,0</coordinates></Point></Placemark>
+<Placemark><name>Первомайский</name><Point><coordinates>69.0547222,57.4041667,0</coordinates></Point></Placemark>
+<Placemark><name>Птицкое</name><Point><coordinates>68.8541667,57.7377778,0</coordinates></Point></Placemark>
+<Placemark><name>Птицкое</name><Point><coordinates>68.8541667,57.7377778,0</coordinates></Point></Placemark>
+<Placemark><name>Птицы</name><Point><coordinates>68.850847,57.735249,0</coordinates></Point></Placemark>
+<Placemark><name>Супра</name><Point><coordinates>69.5653044,57.9959812,0</coordinates></Point></Placemark>
+<Placemark><name>Супра</name><Point><coordinates>69.55596,57.998233,0</coordinates></Point></Placemark>
+<Placemark><name>Супра</name><Point><coordinates>69.5566667,57.9975,0</coordinates></Point></Placemark>
+<Placemark><name>Тукуз</name><Point><coordinates>69.7669916,57.6507617,0</coordinates></Point></Placemark>
+<Placemark><name>Тукуз</name><Point><coordinates>69.7616667,57.6497222,0</coordinates></Point></Placemark>
+<Placemark><name>Тукуз</name><Point><coordinates>69.765,57.6505556,0</coordinates></Point></Placemark>
+<Placemark><name>Ушаково</name><Point><coordinates>68.4072549,57.4801701,0</coordinates></Point></Placemark>
+<Placemark><name>Ушаково</name><Point><coordinates>68.4072222,57.48,0</coordinates></Point></Placemark>
+<Placemark><name>Ушаково</name><Point><coordinates>68.4072222,57.48,0</coordinates></Point></Placemark>
+<Placemark><name>Черное</name><Point><coordinates>69.1703661,57.6543853,0</coordinates></Point></Placemark>
+<Placemark><name>Черное</name><Point><coordinates>69.1677778,57.6491667,0</coordinates></Point></Placemark>
+<Placemark><name>Черное</name><Point><coordinates>69.1719444,57.6469444,0</coordinates></Point></Placemark>
+<Placemark><name>Шестовое</name><Point><coordinates>68.2543189,57.4471401,0</coordinates></Point></Placemark>
+<Placemark><name>Шестовое</name><Point><coordinates>68.2541667,57.4469444,0</coordinates></Point></Placemark>
+<Placemark><name>Шестовое</name><Point><coordinates>68.2541667,57.4469444,0</coordinates></Point></Placemark>
+<Placemark><name>Шишкина</name><Point><coordinates>68.7054906,57.5079169,0</coordinates></Point></Placemark>
+<Placemark><name>Шишкина</name><Point><coordinates>69.0183333,57.9413889,0</coordinates></Point></Placemark>
+<Placemark><name>Шишкина</name><Point><coordinates>68.7052778,57.5077778,0</coordinates></Point></Placemark>
+<Placemark><name>Юрмы</name><Point><coordinates>68.0952488,57.3832483,0</coordinates></Point></Placemark>
+<Placemark><name>Юрмы</name><Point><coordinates>68.0963889,57.3844444,0</coordinates></Point></Placemark>
+<Placemark><name>Ачимово</name><Point><coordinates>71.3391667,56.8033333,0</coordinates></Point></Placemark>
+<Placemark><name>Ермаки</name><Point><coordinates>70.9419444,57.2547222,0</coordinates></Point></Placemark>
+<Placemark><name>Ермаки</name><Point><coordinates>70.9391667,57.2594444,0</coordinates></Point></Placemark>
+<Placemark><name>Калинино</name><Point><coordinates>70.838557,56.821646,0</coordinates></Point></Placemark>
+<Placemark><name>Калинино</name><Point><coordinates>70.8277778,56.8275,0</coordinates></Point></Placemark>
+<Placemark><name>Калинино</name><Point><coordinates>70.8277778,56.8275,0</coordinates></Point></Placemark>
+<Placemark><name>Каргалы</name><Point><coordinates>70.6937217,57.0723474,0</coordinates></Point></Placemark>
+<Placemark><name>Коточиги</name><Point><coordinates>70.9387294,56.8141446,0</coordinates></Point></Placemark>
+<Placemark><name>Коточиги</name><Point><coordinates>70.9419444,56.8152778,0</coordinates></Point></Placemark>
+<Placemark><name>Коточиги</name><Point><coordinates>70.9463889,56.8144444,0</coordinates></Point></Placemark>
+<Placemark><name>Нововяткино</name><Point><coordinates>70.438728,56.5903547,0</coordinates></Point></Placemark>
+<Placemark><name>Нововяткино</name><Point><coordinates>70.4386111,56.59,0</coordinates></Point></Placemark>
+<Placemark><name>Нововяткино</name><Point><coordinates>70.4386111,56.59,0</coordinates></Point></Placemark>
+<Placemark><name>Озерное</name><Point><coordinates>71.2614633,56.800806,0</coordinates></Point></Placemark>
+<Placemark><name>Озерное</name><Point><coordinates>71.2597222,56.8038889,0</coordinates></Point></Placemark>
+<Placemark><name>Поддубровное</name><Point><coordinates>70.591828,56.9153655,0</coordinates></Point></Placemark>
+<Placemark><name>Поддубровное</name><Point><coordinates>70.5908333,56.9163889,0</coordinates></Point></Placemark>
+<Placemark><name>Скрипкино</name><Point><coordinates>71.0802778,57.1947222,0</coordinates></Point></Placemark>
+<Placemark><name>Скрипкино</name><Point><coordinates>71.0802778,57.1947222,0</coordinates></Point></Placemark>
+<Placemark><name>Евсино</name><Point><coordinates>68.2902778,56.7022222,0</coordinates></Point></Placemark>
+<Placemark><name>Евсино</name><Point><coordinates>68.2902778,56.7022222,0</coordinates></Point></Placemark>
+<Placemark><name>Козловка</name><Point><coordinates>68.4666667,56.1783333,0</coordinates></Point></Placemark>
+<Placemark><name>Королево</name><Point><coordinates>68.4905556,56.5572222,0</coordinates></Point></Placemark>
+<Placemark><name>Малоемецк</name><Point><coordinates>68.4133333,56.0963889,0</coordinates></Point></Placemark>
+<Placemark><name>Одина</name><Point><coordinates>68.3163889,56.6966667,0</coordinates></Point></Placemark>
+<Placemark><name>Усть-Ламенка</name><Point><coordinates>68.0683333,56.5019444,0</coordinates></Point></Placemark>
+<Placemark><name>Бигила</name><Point><coordinates>66.6527778,56.4030556,0</coordinates></Point></Placemark>
+<Placemark><name>Бигила</name><Point><coordinates> 66.655767,56.403925,0</coordinates></Point></Placemark>
+<Placemark><name>Бигила</name><Point><coordinates>66.655,56.4055556,0</coordinates></Point></Placemark>
+<Placemark><name>Колесниково</name><Point><coordinates>66.913826,56.298207,0</coordinates></Point></Placemark>
+<Placemark><name>Падун</name><Point><coordinates>66.6226674,56.5135582,0</coordinates></Point></Placemark>
+<Placemark><name>Падун</name><Point><coordinates>66.6302778,56.5125,0</coordinates></Point></Placemark>
+<Placemark><name>Падун</name><Point><coordinates>66.624571,56.513476,0</coordinates></Point></Placemark>
+<Placemark><name>Сосновка</name><Point><coordinates>66.921587,56.539319,0</coordinates></Point></Placemark>
+<Placemark><name>Сосновка</name><Point><coordinates>66.9202778,56.5397222,0</coordinates></Point></Placemark>
+<Placemark><name>Старая Заимка</name><Point><coordinates>66.8463233,56.5232225,0</coordinates></Point></Placemark>
+<Placemark><name>Старая Заимка</name><Point><coordinates>66.841996,56.519427,0</coordinates></Point></Placemark>
+<Placemark><name>Старая Заимка</name><Point><coordinates>66.8411111,56.5183333,0</coordinates></Point></Placemark>
+<Placemark><name>Шестаково</name><Point><coordinates>66.975216,56.693959,0</coordinates></Point></Placemark>
+<Placemark><name>Шестаково</name><Point><coordinates>66.9758333,56.6919444,0</coordinates></Point></Placemark>
+<Placemark><name>Архангельское</name><Point><coordinates>65.6638889,56.5275,0</coordinates></Point></Placemark>
+<Placemark><name>Архангельское</name><Point><coordinates>65.6638889,56.5275,0</coordinates></Point></Placemark>
+<Placemark><name>Битюки</name><Point><coordinates>65.3336111,56.3872222,0</coordinates></Point></Placemark>
+<Placemark><name>Верхнебешкиль</name><Point><coordinates>65.5263423,56.520183,0</coordinates></Point></Placemark>
+<Placemark><name>Верхнебешкиль</name><Point><coordinates>65.5263889,56.5205556,0</coordinates></Point></Placemark>
+<Placemark><name>Верхнебешкиль</name><Point><coordinates>65.5269444,56.5211111,0</coordinates></Point></Placemark>
+<Placemark><name>Верхнеингальское</name><Point><coordinates>65.795569,56.438106,0</coordinates></Point></Placemark>
+<Placemark><name>Верхний Ингал</name><Point><coordinates>65.7922222,56.4383333,0</coordinates></Point></Placemark>
+<Placemark><name>Верхний Ингал</name><Point><coordinates>65.7922222,56.4383333,0</coordinates></Point></Placemark>
+<Placemark><name>Кировский</name><Point><coordinates>65.7431154,56.7181686,0</coordinates></Point></Placemark>
+<Placemark><name>Коммунар</name><Point><coordinates>65.534451,56.5665927,0</coordinates></Point></Placemark>
+<Placemark><name>Коммунар</name><Point><coordinates>65.536518,56.5668466,0</coordinates></Point></Placemark>
+<Placemark><name>Коммунар</name><Point><coordinates>65.5380556,56.5669444,0</coordinates></Point></Placemark>
+<Placemark><name>Минино</name><Point><coordinates>65.6358333,56.425,0</coordinates></Point></Placemark>
+<Placemark><name>Минино</name><Point><coordinates>65.6377778,56.4241667,0</coordinates></Point></Placemark>
+<Placemark><name>Рассвет</name><Point><coordinates>65.7327778,56.5369444,0</coordinates></Point></Placemark>
+<Placemark><name>Солобоево</name><Point><coordinates>65.3724235,56.4376254,0</coordinates></Point></Placemark>
+<Placemark><name>Ваньковка</name><Point><coordinates>69.378178,56.0918956,0</coordinates></Point></Placemark>
+<Placemark><name>Ершово</name><Point><coordinates>69.312831,56.177236,0</coordinates></Point></Placemark>
+<Placemark><name>Ершово</name><Point><coordinates>69.3063889,56.1766667,0</coordinates></Point></Placemark>
+<Placemark><name>Клепиково</name><Point><coordinates>69.4533333,55.9613889,0</coordinates></Point></Placemark>
+<Placemark><name>Неволина</name><Point><coordinates>69.9080556,56.2980556,0</coordinates></Point></Placemark>
+<Placemark><name>Неволина</name><Point><coordinates>69.9080556,56.2980556,0</coordinates></Point></Placemark>
+<Placemark><name>Неволино</name><Point><coordinates>69.911851,56.297287,0</coordinates></Point></Placemark>
+<Placemark><name>Новотравное</name><Point><coordinates>69.2472217,55.9228613,0</coordinates></Point></Placemark>
+<Placemark><name>Новотравное</name><Point><coordinates>69.2430556,55.9266667,0</coordinates></Point></Placemark>
+<Placemark><name>Новотравное</name><Point><coordinates>69.245,55.9275,0</coordinates></Point></Placemark>
+<Placemark><name>Синицына</name><Point><coordinates>69.475,56.0130556,0</coordinates></Point></Placemark>
+<Placemark><name>Большая Ченчерь</name><Point><coordinates>69.4369407,55.792688,0</coordinates></Point></Placemark>
+<Placemark><name>Большая Ченчерь</name><Point><coordinates>69.4366667,55.7925,0</coordinates></Point></Placemark>
+<Placemark><name>Большие Ярки</name><Point><coordinates>69.2931591,55.5959247,0</coordinates></Point></Placemark>
+<Placemark><name>Копотилово</name><Point><coordinates>69.4812228,55.5352495,0</coordinates></Point></Placemark>
+<Placemark><name>Копотилово</name><Point><coordinates>69.4811111,55.535,0</coordinates></Point></Placemark>
+<Placemark><name>Малая Ченчерь</name><Point><coordinates>69.3717423,55.7927668,0</coordinates></Point></Placemark>
+<Placemark><name>Малая Ченчерь</name><Point><coordinates>69.3694444,55.7933333,0</coordinates></Point></Placemark>
+<Placemark><name>Огнево</name><Point><coordinates>69.3162336,55.7727222,0</coordinates></Point></Placemark>
+<Placemark><name>Огнево</name><Point><coordinates>69.3163889,55.7758333,0</coordinates></Point></Placemark>
+<Placemark><name>Песчаное</name><Point><coordinates>69.317202,55.8244904,0</coordinates></Point></Placemark>
+<Placemark><name>Песчаное</name><Point><coordinates>69.315,55.8275,0</coordinates></Point></Placemark>
+<Placemark><name>Пешнево</name><Point><coordinates>69.4165004,55.5522155,0</coordinates></Point></Placemark>
+<Placemark><name>Пешнево</name><Point><coordinates>69.4161111,55.555,0</coordinates></Point></Placemark>
+<Placemark><name>Смирное</name><Point><coordinates>68.9803955,55.8143637,0</coordinates></Point></Placemark>
+<Placemark><name>Смирное</name><Point><coordinates>68.9802778,55.8155556,0</coordinates></Point></Placemark>
+<Placemark><name>Челюскинцев</name><Point><coordinates>69.6296996,55.7624842,0</coordinates></Point></Placemark>
+<Placemark><name>Чирки</name><Point><coordinates>68.9834552,55.7524808,0</coordinates></Point></Placemark>
+<Placemark><name>Чирки</name><Point><coordinates>68.9861111,55.7519444,0</coordinates></Point></Placemark>
+<Placemark><name>Березовка</name><Point><coordinates>65.796187,57.669381,0</coordinates></Point></Placemark>
+<Placemark><name>Березовка</name><Point><coordinates>65.7891667,57.6741667,0</coordinates></Point></Placemark>
+<Placemark><name>Большая Заморозовка</name><Point><coordinates>65.4963889,57.6952778,0</coordinates></Point></Placemark>
+<Placemark><name>Бухтал</name><Point><coordinates>65.156362,57.506705,0</coordinates></Point></Placemark>
+<Placemark><name>Веселая Грива</name><Point><coordinates>65.220361,57.608954,0</coordinates></Point></Placemark>
+<Placemark><name>Веселая Грива</name><Point><coordinates>65.2255556,57.6088889,0</coordinates></Point></Placemark>
+<Placemark><name>Канаш</name><Point><coordinates>65.6408333,57.5952778,0</coordinates></Point></Placemark>
+<Placemark><name>Киндер</name><Point><coordinates>66.387369,57.635980,0</coordinates></Point></Placemark>
+<Placemark><name>Ключи</name><Point><coordinates>66.1544444,57.4047222,0</coordinates></Point></Placemark>
+<Placemark><name>Конченбург</name><Point><coordinates>66.3083333,57.4733333,0</coordinates></Point></Placemark>
+<Placemark><name>Красный Яр</name><Point><coordinates>65.9676847,57.4669344,0</coordinates></Point></Placemark>
+<Placemark><name>Красный Яр</name><Point><coordinates>65.9675,57.4666667,0</coordinates></Point></Placemark>
+<Placemark><name>Кунчур</name><Point><coordinates>66.1913889,57.2727778,0</coordinates></Point></Placemark>
+<Placemark><name>Кускургуль</name><Point><coordinates>66.5457742,58.0849752,0</coordinates></Point></Placemark>
+<Placemark><name>Мияссы</name><Point><coordinates>65.917815,57.8679394,0</coordinates></Point></Placemark>
+<Placemark><name>Мияссы</name><Point><coordinates>65.925176,57.868016,0</coordinates></Point></Placemark>
+<Placemark><name>Мияссы</name><Point><coordinates>65.9177778,57.8677778,0</coordinates></Point></Placemark>
+<Placemark><name>Новопокровка</name><Point><coordinates>65.3752778,57.4716667,0</coordinates></Point></Placemark>
+<Placemark><name>Средние Тарманы</name><Point><coordinates>65.355,57.3666667,0</coordinates></Point></Placemark>
+<Placemark><name>Торгили</name><Point><coordinates>66.0429002,57.2818936,0</coordinates></Point></Placemark>
+<Placemark><name>Журавлевское</name><Point><coordinates>67.6875,56.2694444,0</coordinates></Point></Placemark>
+<Placemark><name>Ситниково</name><Point><coordinates>67.8436768,56.3622297,0</coordinates></Point></Placemark>
+<Placemark><name>Ситниково</name><Point><coordinates>67.8366667,56.3636111,0</coordinates></Point></Placemark>
+<Placemark><name>Южно-Плетнево</name><Point><coordinates>67.4886031,56.4085449,0</coordinates></Point></Placemark>
+<Placemark><name>Южно-Плетнево</name><Point><coordinates>67.4883333,56.4108333,0</coordinates></Point></Placemark>
+<Placemark><name>Южно-Плетнево</name><Point><coordinates>67.4925,56.4116667,0</coordinates></Point></Placemark>
+<Placemark><name>Лопазное</name><Point><coordinates>70.423113,55.479397,0</coordinates></Point></Placemark>
+<Placemark><name>Майка</name><Point><coordinates>70.495627,55.60803,0</coordinates></Point></Placemark>
+<Placemark><name>Новоандреевка</name><Point><coordinates>70.44912,55.856034,0</coordinates></Point></Placemark>
+<Placemark><name>Новоандреевка</name><Point><coordinates>70.442316,55.851292,0</coordinates></Point></Placemark>
+<Placemark><name>Новоандреевка</name><Point><coordinates>70.4408333,55.8525,0</coordinates></Point></Placemark>
+<Placemark><name>Новоказанка</name><Point><coordinates>70.4180556,55.2922222,0</coordinates></Point></Placemark>
+<Placemark><name>Рождественка</name><Point><coordinates>69.9913889,55.7027778,0</coordinates></Point></Placemark>
+<Placemark><name>Степное</name><Point><coordinates>70.192114,55.605376,0</coordinates></Point></Placemark>
+<Placemark><name>Степное</name><Point><coordinates>70.193649,55.605027,0</coordinates></Point></Placemark>
+<Placemark><name>Степное</name><Point><coordinates>70.1975,55.6030556,0</coordinates></Point></Placemark>
+<Placemark><name>Знаменщиково</name><Point><coordinates>70.2909253,56.5703628,0</coordinates></Point></Placemark>
+<Placemark><name>Знаменщиково</name><Point><coordinates>70.2908333,56.5702778,0</coordinates></Point></Placemark>
+<Placemark><name>Знаменщиково</name><Point><coordinates>70.2908333,56.5702778,0</coordinates></Point></Placemark>
+<Placemark><name>Нижнепинигино</name><Point><coordinates>69.9866667,56.5063889,0</coordinates></Point></Placemark>
+<Placemark><name>Абалак</name><Point><coordinates>68.5919957,58.1279376,0</coordinates></Point></Placemark>
+<Placemark><name>Ачиры</name><Point><coordinates>67.3094086,58.7922979,0</coordinates></Point></Placemark>
+<Placemark><name>Ачиры</name><Point><coordinates>67.3125,58.7916667,0</coordinates></Point></Placemark>
+<Placemark><name>Байкалово</name><Point><coordinates>67.6547222,57.7783333,0</coordinates></Point></Placemark>
+<Placemark><name>Вармахли</name><Point><coordinates>67.4429744,58.2486376,0</coordinates></Point></Placemark>
+<Placemark><name>Елань</name><Point><coordinates>67.7369444,57.9730556,0</coordinates></Point></Placemark>
+<Placemark><name>Иземеть</name><Point><coordinates>67.6133115,58.6489824,0</coordinates></Point></Placemark>
+<Placemark><name>Иземеть</name><Point><coordinates>67.6130556,58.6488889,0</coordinates></Point></Placemark>
+<Placemark><name>Ингаир</name><Point><coordinates>68.7666667,58.6066667,0</coordinates></Point></Placemark>
+<Placemark><name>Ишменева</name><Point><coordinates>67.4213889,58.6088889,0</coordinates></Point></Placemark>
+<Placemark><name>Ишменево</name><Point><coordinates>67.4214216,58.6091583,0</coordinates></Point></Placemark>
+<Placemark><name>Карачино</name><Point><coordinates>68.1473679,58.0141441,0</coordinates></Point></Placemark>
+<Placemark><name>Кутарбитка</name><Point><coordinates>67.9775,57.8361111,0</coordinates></Point></Placemark>
+<Placemark><name>Лайтамак</name><Point><coordinates>67.4589263,58.4099072,0</coordinates></Point></Placemark>
+<Placemark><name>Лайтамак</name><Point><coordinates>67.4591667,58.4086111,0</coordinates></Point></Placemark>
+<Placemark><name>Лайтамак</name><Point><coordinates>67.4602778,58.4091667,0</coordinates></Point></Placemark>
+<Placemark><name>Надцы</name><Point><coordinates>68.5743236,58.6258446,0</coordinates></Point></Placemark>
+<Placemark><name>Надцы</name><Point><coordinates>68.5722222,58.6272222,0</coordinates></Point></Placemark>
+<Placemark><name>Овсянниково</name><Point><coordinates>68.0749611,58.2909139,0</coordinates></Point></Placemark>
+<Placemark><name>Овсянниково</name><Point><coordinates>68.074898,58.290983,0</coordinates></Point></Placemark>
+<Placemark><name>Полуянова</name><Point><coordinates>68.8125,58.0405556,0</coordinates></Point></Placemark>
+<Placemark><name>Полуяново</name><Point><coordinates>68.8153281,58.0400409,0</coordinates></Point></Placemark>
+<Placemark><name>Ростошь</name><Point><coordinates>68.6613889,58.3491667,0</coordinates></Point></Placemark>
+<Placemark><name>Сетово</name><Point><coordinates>67.8016667,58.02,0</coordinates></Point></Placemark>
+<Placemark><name>Сетово</name><Point><coordinates>67.8016667,58.02,0</coordinates></Point></Placemark>
+<Placemark><name>Тахтагул</name><Point><coordinates>68.4259578,57.6851203,0</coordinates></Point></Placemark>
+<Placemark><name>Тахтагул</name><Point><coordinates>68.4258333,57.685,0</coordinates></Point></Placemark>
+<Placemark><name>Топкинская</name><Point><coordinates>67.3378956,58.376329,0</coordinates></Point></Placemark>
+<Placemark><name>Ушарова</name><Point><coordinates>68.2989196,58.5039039,0</coordinates></Point></Placemark>
+<Placemark><name>Ушарова</name><Point><coordinates>68.2986111,58.5038889,0</coordinates></Point></Placemark>
+<Placemark><name>Чебурга</name><Point><coordinates>68.2116974,57.7265339,0</coordinates></Point></Placemark>
+<Placemark><name>Чебурга</name><Point><coordinates>68.2116667,57.7263889,0</coordinates></Point></Placemark>
+<Placemark><name>Большие Акияры</name><Point><coordinates>65.3791667,56.9530556,0</coordinates></Point></Placemark>
+<Placemark><name>Борки</name><Point><coordinates>66.07082,57.170722,0</coordinates></Point></Placemark>
+<Placemark><name>Зырянка</name><Point><coordinates>65.0291338,57.136978,0</coordinates></Point></Placemark>
+<Placemark><name>Зырянка</name><Point><coordinates>65.0272222,57.1344444,0</coordinates></Point></Placemark>
+<Placemark><name>Муллаши</name><Point><coordinates>66.0771555,57.0017166,0</coordinates></Point></Placemark>
+<Placemark><name>Успенка</name><Point><coordinates>65.0489609,57.0754946,0</coordinates></Point></Placemark>
+<Placemark><name>Янтык</name><Point><coordinates>65.8674289,57.3180514,0</coordinates></Point></Placemark>
+<Placemark><name>Янтык</name><Point><coordinates>65.8688889,57.3152778,0</coordinates></Point></Placemark>
+<Placemark><name>Алымка</name><Point><coordinates>68.8039648,59.0252298,0</coordinates></Point></Placemark>
+<Placemark><name>Алымка</name><Point><coordinates>68.8038889,59.025,0</coordinates></Point></Placemark>
+<Placemark><name>Алымка</name><Point><coordinates>68.8038889,59.025,0</coordinates></Point></Placemark>
+<Placemark><name>Красный Яр</name><Point><coordinates>68.5860737,58.8655579,0</coordinates></Point></Placemark>
+<Placemark><name>Красный Яр</name><Point><coordinates>68.5844444,58.865,0</coordinates></Point></Placemark>
+<Placemark><name>Красный Яр</name><Point><coordinates>68.5861111,58.8652778,0</coordinates></Point></Placemark>
+<Placemark><name>Муген</name><Point><coordinates>70.7915007,59.805524,0</coordinates></Point></Placemark>
+<Placemark><name>Осинник</name><Point><coordinates>68.8363207,59.2704631,0</coordinates></Point></Placemark>
+<Placemark><name>Осинник</name><Point><coordinates>68.8361111,59.2705556,0</coordinates></Point></Placemark>
+<Placemark><name>Осинник</name><Point><coordinates>68.8361111,59.2705556,0</coordinates></Point></Placemark>
+<Placemark><name>Першино</name><Point><coordinates>68.9208526,59.3494299,0</coordinates></Point></Placemark>
+<Placemark><name>Першино</name><Point><coordinates>68.9205556,59.3511111,0</coordinates></Point></Placemark>
+<Placemark><name>Тугалово</name><Point><coordinates>69.7555096,59.7450167,0</coordinates></Point></Placemark>
+<Placemark><name>Тугалово</name><Point><coordinates>69.7552778,59.745,0</coordinates></Point></Placemark>
+<Placemark><name>Тугалово</name><Point><coordinates>69.7552778,59.745,0</coordinates></Point></Placemark>
+<Placemark><name>Бызово</name><Point><coordinates>66.1912217,56.3002872,0</coordinates></Point></Placemark>
+<Placemark><name>Бызово</name><Point><coordinates>66.194218,56.302738,0</coordinates></Point></Placemark>
+<Placemark><name>Ингалинское</name><Point><coordinates>65.9433333,56.4233333,0</coordinates></Point></Placemark>
+<Placemark><name>Ингальское</name><Point><coordinates>65.944767,56.4222942,0</coordinates></Point></Placemark>
+<Placemark><name>Коркино</name><Point><coordinates>65.9305556,56.0783333,0</coordinates></Point></Placemark>
+<Placemark><name>Крашенинино</name><Point><coordinates>66.7980556,56.2375,0</coordinates></Point></Placemark>
+<Placemark><name>Липиха</name><Point><coordinates>65.7472222,56.3627778,0</coordinates></Point></Placemark>
+<Placemark><name>Масали</name><Point><coordinates>66.5679079,56.0707489,0</coordinates></Point></Placemark>
+<Placemark><name>Масали</name><Point><coordinates>66.5644444,56.0766667,0</coordinates></Point></Placemark>
+<Placemark><name>Масали</name><Point><coordinates>66.5625,56.0752778,0</coordinates></Point></Placemark>
+<Placemark><name>Нижнеманай</name><Point><coordinates>66.7719444,56.0486111,0</coordinates></Point></Placemark>
+<Placemark><name>Пятково</name><Point><coordinates>66.7694249,56.15149,0</coordinates></Point></Placemark>
+<Placemark><name>Скородум</name><Point><coordinates>66.157642,56.251922,0</coordinates></Point></Placemark>
+<Placemark><name>Суерка</name><Point><coordinates>66.038974,56.253527,0</coordinates></Point></Placemark>
+<Placemark><name>Агарак</name><Point><coordinates>67.9422571,56.9706287,0</coordinates></Point></Placemark>
+<Placemark><name>Агарак</name><Point><coordinates>67.9416667,56.9702778,0</coordinates></Point></Placemark>
+<Placemark><name>Агарак</name><Point><coordinates>67.9416667,56.9702778,0</coordinates></Point></Placemark>
+<Placemark><name>Володино</name><Point><coordinates>67.5049302,56.7398506,0</coordinates></Point></Placemark>
+<Placemark><name>Володино</name><Point><coordinates>67.5047222,56.7397222,0</coordinates></Point></Placemark>
+<Placemark><name>Володино</name><Point><coordinates>67.5047222,56.7397222,0</coordinates></Point></Placemark>
+<Placemark><name>Лабино</name><Point><coordinates>67.7936467,56.8779987,0</coordinates></Point></Placemark>
+<Placemark><name>Новый Тап</name><Point><coordinates>67.7196912,57.04364,0</coordinates></Point></Placemark>
+<Placemark><name>Новый Тап</name><Point><coordinates>67.7552778,57.0441667,0</coordinates></Point></Placemark>
+<Placemark><name>Северо-Плетнево</name><Point><coordinates>68.0647351,56.8661484,0</coordinates></Point></Placemark>
+<Placemark><name>Северо-Плетнево</name><Point><coordinates>68.0638889,56.8658333,0</coordinates></Point></Placemark>
+<Placemark><name>Шипаково</name><Point><coordinates>67.6382051,56.8507464,0</coordinates></Point></Placemark>
+<Placemark><name>Бердюгино</name><Point><coordinates>66.4030556,56.8144444,0</coordinates></Point></Placemark>
+<Placemark><name>Большое Тихвино</name><Point><coordinates>66.7252778,57.0352778,0</coordinates></Point></Placemark>
+<Placemark><name>Зиново</name><Point><coordinates>66.13,56.6411111,0</coordinates></Point></Placemark>
+<Placemark><name>Ивановка</name><Point><coordinates>66.7723199,57.0632155,0</coordinates></Point></Placemark>
+<Placemark><name>Ивановка</name><Point><coordinates>66.78,57.0655556,0</coordinates></Point></Placemark>
+<Placemark><name>Ивановка</name><Point><coordinates>66.7797222,57.0691667,0</coordinates></Point></Placemark>
+<Placemark><name>Карабаш</name><Point><coordinates>66.1011111,56.7986111,0</coordinates></Point></Placemark>
+<Placemark><name>Карабаш</name><Point><coordinates>66.1011111,56.7977778,0</coordinates></Point></Placemark>
+<Placemark><name>Коктюль</name><Point><coordinates>66.5552352,56.7487165,0</coordinates></Point></Placemark>
+<Placemark><name>Коктюль</name><Point><coordinates>66.5547222,56.7488889,0</coordinates></Point></Placemark>
+<Placemark><name>Коктюль</name><Point><coordinates>66.5588889,56.7472222,0</coordinates></Point></Placemark>
+<Placemark><name>Кулики</name><Point><coordinates>66.6480556,56.925,0</coordinates></Point></Placemark>
+<Placemark><name>Малая Тихвина</name><Point><coordinates>66.7208333,56.9963889,0</coordinates></Point></Placemark>
+<Placemark><name>Старый Кавдык</name><Point><coordinates>66.2285795,56.768939,0</coordinates></Point></Placemark>
+<Placemark><name>Старый Кавдык</name><Point><coordinates>66.2269444,56.7675,0</coordinates></Point></Placemark>
+<Placemark><name>Южное</name><Point><coordinates>65.987537,56.640996,0</coordinates></Point></Placemark>
+<Placemark><name>Южное</name><Point><coordinates>65.9902778,56.6419444,0</coordinates></Point></Placemark>
+<Placemark><name>Бачелино</name><Point><coordinates>67.2702778,57.7758333,0</coordinates></Point></Placemark>
+<Placemark><name>Варвара</name><Point><coordinates>67.2372314,57.444782,0</coordinates></Point></Placemark>
+<Placemark><name>Варвара</name><Point><coordinates>67.2372222,57.4447222,0</coordinates></Point></Placemark>
+<Placemark><name>Красный Яр</name><Point><coordinates>65.968567,57.467196,0</coordinates></Point></Placemark>
+<Placemark><name>Маранка</name><Point><coordinates>67.1655556,57.3213889,0</coordinates></Point></Placemark>
+<Placemark><name>Новоалександровка</name><Point><coordinates>67.8105556,57.4861111,0</coordinates></Point></Placemark>
+<Placemark><name>Новокаишкуль</name><Point><coordinates>67.9019444,57.49,0</coordinates></Point></Placemark>
+<Placemark><name>Покровское</name><Point><coordinates>66.7883224,57.2432049,0</coordinates></Point></Placemark>
+<Placemark><name>Сеиты</name><Point><coordinates>67.227837,57.9386825,0</coordinates></Point></Placemark>
+<Placemark><name>Сеиты</name><Point><coordinates>67.2277778,57.9383333,0</coordinates></Point></Placemark>
+<Placemark><name>Сорокино</name><Point><coordinates>67.4724599,57.8312579,0</coordinates></Point></Placemark>
+<Placemark><name>Сорокино</name><Point><coordinates>67.4761111,57.8308333,0</coordinates></Point></Placemark>
+<Placemark><name>Сорокино</name><Point><coordinates>67.4755556,57.8319444,0</coordinates></Point></Placemark>
+<Placemark><name>Старый Каишкуль</name><Point><coordinates>67.994833,57.5621809,0</coordinates></Point></Placemark>
+<Placemark><name>Шатанова</name><Point><coordinates>67.2938889,57.7141667,0</coordinates></Point></Placemark>
+<Placemark><name>Щетково</name><Point><coordinates>67.0818447,57.459253,0</coordinates></Point></Placemark>
+<Placemark><name>Щетково</name><Point><coordinates>67.0819444,57.4566667,0</coordinates></Point></Placemark>
+<Placemark><name>Щетково</name><Point><coordinates>67.0791667,57.455,0</coordinates></Point></Placemark>
+</Document></kml>
