@@ -2,11 +2,14 @@ import re
 
 
 def new_point(filename, name, lat, lon):
+    '''
+    Simple text-writer: add point which contains name and coordinates, framed XML elements
+    '''
     filename.write(f'\n<Placemark>\n<name>{name}</name>\n<Point><coordinates>{lon},{lat},0</coordinates></Point>\n</Placemark>')
 
 def convert(coord_string):
     '''
-    converting coordinates from Grad Min Sec to Grad.
+    Converting coordinates from Grad Min Sec to Grad.
     '''
     g, m, s = re.split(r'\D', re.sub(r'[a-zA-Z"]', '', coord_string), maxsplit=2)
     #print(f'{g}, {m}, {s}')
