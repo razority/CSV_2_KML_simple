@@ -2,8 +2,11 @@
 import kml_fun
 import re
 
-filename_kml = 'kml_list.kml'
-filename_csv = 'csv.csv'
+filename = kml_fun.json_load('filename.json')
+
+filename_kml = filename['kml']
+filename_csv = filename['csv']
+separator = ',' # comma separator in csv, use '\t' for tab-separator
 
 try:
     with open(filename_csv, "r") as csv_f, open(filename_kml, 'w') as kml_f:
@@ -15,10 +18,13 @@ try:
             Checking for correct file content and coordinates format
             '''
             line = line.replace("\r", "").replace("\n", "")
-            if re.search(r'[\s|a-zA-Z"\']', line[line.find(','):]) == None:
-                name, lat, lon = line.split(',')
+            if re.search(r'[ |a-zA-Z"\']', line[line.find(','):]) == None:
+                name, lat, lon = line.split(separator)
+                # if you using ',' for fraction separator
+                lat.replace(',', '.')  #  58,34643 -> 58.34643
+                lon.replace(',', '.')
             else:
-                name, lat, lon = line.split(',')
+                name, lat, lon = line.split(separator)
                 #print(f'{name}, {lat}, {lon}')
                 lat = kml_fun.convert(lat)
                 lon = kml_fun.convert(lon)

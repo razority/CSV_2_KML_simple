@@ -1,5 +1,10 @@
 import re
+import json
 
+def json_load(path_to_filename):
+    with open(path_to_filename, 'r') as f_object:
+	    filename = json.load(f_object)
+    return filename
 
 def new_point(filename, name, lat, lon):
     '''
