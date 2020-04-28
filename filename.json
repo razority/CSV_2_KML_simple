@@ -1,4 +1,5 @@
 {
     "csv": "csv.csv",
-    "kml": "kml_list.kml"   
+    "kml": "kml_list.kml",
+    "separator": ","   
   }

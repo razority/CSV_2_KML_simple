@@ -6,7 +6,8 @@ filename = kml_fun.json_load('filename.json')
 
 filename_kml = filename['kml']
 filename_csv = filename['csv']
-separator = ',' # comma separator in csv, use '\t' for tab-separator
+# ',' comma separator in csv, use '\t' for tab-separator
+separator = filename['separator']
 
 try:
     with open(filename_csv, "r") as csv_f, open(filename_kml, 'w') as kml_f:
